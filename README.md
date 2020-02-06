@@ -1,5 +1,7 @@
 # David's Polish Resources
 
+ * **Source Google Docs**, send me **comments and suggestions** for edits there: https://docs.google.com/spreadsheets/d/1o8m4odWbwpr1atd6Y7ueqy-3LU2-qVPwiE5BK2rrgTk/edit?usp=sharing
+
  * [Declensions & More Table](PolishNotes.pdf)
 
  * [Quickref](Quickref.pdf)
