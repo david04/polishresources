@@ -16,5 +16,5 @@
  
  * [Verb Prefixes](Verb Prefixes.pdf)
 
-== Declensions & More Table in Image (Download: https://github.com/david04/polishresources/raw/master/Declensions.png):
+## Declensions & More Table in Image (Download: https://github.com/david04/polishresources/raw/master/Declensions.png ):
 ![Declensions table](Declensions.png)
