@@ -34,7 +34,7 @@
 
 * Grzesiek, [Meet him here](https://www.italki.com/teacher/1509498)
 
-* And many others
+* And many others!
 
 ### Declensions & More Table in Image:
 
