@@ -15,6 +15,8 @@
  * [Partykuły](Partykuly.pdf)
  
  * [Verb Prefixes](Verb Prefixes.pdf)
+ 
+ * Contact: davidbranquinho at gmail dot com
 
 ### Declensions & More Table in Image:
 
