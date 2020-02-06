@@ -18,6 +18,6 @@
 
 ### Declensions & More Table in Image:
 
-* Download: https://github.com/david04/polishresources/raw/master/Declensions.png
+* [To download png click here](https://github.com/david04/polishresources/raw/master/Declensions.png)
 
 ![Declensions table](Declensions.png)
