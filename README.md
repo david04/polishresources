@@ -1,6 +1,6 @@
 # David's Polish Resources
 
- * [Declensions & More Table](Polish Notes.pdf)
+ * [Declensions & More Table](PolishNotes.pdf)
 
  * [Quickref](Quickref.pdf)
 
