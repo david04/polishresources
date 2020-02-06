@@ -1,18 +1,18 @@
 # David's Polish Resources
 
-[Declensions & More Table](Verb Prefixes.pdf)
+ * [Declensions & More Table](Verb Prefixes.pdf)
 
-[Quickref](Quickref.pdf)
+ * [Quickref](Quickref.pdf)
 
-[Verbs](Verbs.pdf)
+ * [Verbs](Verbs.pdf)
 
-[Adjectives & Adverbs](AdjAdv.pdf)
+ * [Adjectives & Adverbs](AdjAdv.pdf)
 
-[Imiesłow](Imieslow.pdf)
+ * [Imiesłow](Imieslow.pdf)
 
-[Numbers](Numbers.pdf)
+ * [Numbers](Numbers.pdf)
 
-[Partykuły](Partykuly.pdf)
+ * [Partykuły](Partykuly.pdf)
 
-== Declensions & More Table: ==
+== Declensions & More Table in Image (Download: https://github.com/david04/polishresources/raw/master/Declensions.png):
 ![Declensions table](Declensions.png)
