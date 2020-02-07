@@ -36,6 +36,12 @@
 
 * And many others!
 
+### Recommended Online Resources:
+
+* Reverso Context: For example, searching for text where the word "czytam" (I read) occurs - very helpful: [https://context.reverso.net/t%C5%82umaczenie/polski-angielski/czytam](https://context.reverso.net/t%C5%82umaczenie/polski-angielski/czytam)
+
+* Wiktionary, we you can see the conjugation of the verb (**odmiana**, not always available), if it's perfective or imperfective, what's the perfective/or what's the imperfective (not always available): [https://pl.wiktionary.org/wiki/czyta%C4%87](https://pl.wiktionary.org/wiki/czyta%C4%87)
+
 ### Declensions & More Table in Image:
 
 * [To download png click here](https://github.com/david04/polishresources/raw/master/Declensions.png)
